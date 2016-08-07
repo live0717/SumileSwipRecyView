@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/zhangxiaokang/AndroidStudioProjects/SumileSwipRecyView/PullToRefresh/build/intermediates/res/merged/androidTest/debug/layout/pull_to_refresh_header_horizontal.xml",
+        "source": "/Users/zhangxiaokang/AndroidStudioProjects/SumileSwipRecyView/PullToRefresh/build/intermediates/bundles/debug/res/layout/pull_to_refresh_header_horizontal.xml"
+    },
+    {
+        "merged": "/Users/zhangxiaokang/AndroidStudioProjects/BlogApplicationMain/PullToRefresh/build/intermediates/res/merged/androidTest/debug/layout/pull_to_refresh_header_horizontal.xml",
+        "source": "/Users/zhangxiaokang/AndroidStudioProjects/BlogApplicationMain/PullToRefresh/build/intermediates/bundles/debug/res/layout/pull_to_refresh_header_horizontal.xml"
+    },
+    {
+        "merged": "/Users/zhangxiaokang/AndroidStudioProjects/BlogApplicationMain/PullToRefresh/build/intermediates/res/merged/androidTest/debug/layout/pull_to_refresh_header_vertical.xml",
+        "source": "/Users/zhangxiaokang/AndroidStudioProjects/BlogApplicationMain/PullToRefresh/build/intermediates/bundles/debug/res/layout/pull_to_refresh_header_vertical.xml"
+    },
+    {
+        "merged": "/Users/zhangxiaokang/AndroidStudioProjects/SumileSwipRecyView/PullToRefresh/build/intermediates/res/merged/androidTest/debug/layout/pull_to_refresh_header_vertical.xml",
+        "source": "/Users/zhangxiaokang/AndroidStudioProjects/SumileSwipRecyView/PullToRefresh/build/intermediates/bundles/debug/res/layout/pull_to_refresh_header_vertical.xml"
+    }
+]
